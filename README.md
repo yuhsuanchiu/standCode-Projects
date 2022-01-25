@@ -1,5 +1,5 @@
 # standCode-Projects
-Hey there!/
+Hey there!\
 This repository contains my programing projects done durning the period of stanCode SC101 course.
 
 
