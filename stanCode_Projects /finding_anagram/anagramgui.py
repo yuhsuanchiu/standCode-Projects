@@ -2,7 +2,7 @@ import tkinter as tk
 TEXT_DX = 15
 
 
-def make_gui(window, width, height, word_d, ans_lst):
+def make_gui(window, width, height, word_d):
 
     title = tk.Label(window, text='Welcome to stanCode Anagram Generator!', font=('Impact', 35),
                      bg='Azure', fg='darkslategrey')
