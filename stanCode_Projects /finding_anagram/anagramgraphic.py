@@ -25,12 +25,11 @@ CANVAS_HEIGHT = 450
 
 def main():
     word_d = read_dic()
-    ans_lst = []
 
     top = tk.Tk()
     top.wm_title('Anagram Generator')
     top.configure(bg='Azure')
-    canvas = gui.make_gui(top, CANVAS_WIDTH, CANVAS_HEIGHT, word_d, ans_lst)
+    canvas = gui.make_gui(top, CANVAS_WIDTH, CANVAS_HEIGHT, word_d)
 
     top.mainloop()
 
