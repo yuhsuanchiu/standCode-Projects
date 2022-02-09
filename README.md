@@ -10,6 +10,8 @@ This repository contains my programing projects done durning the period of stanC
   - imagine processing
 * [Breakout Game](https://drive.google.com/file/d/1SY1PJJQXeFq5__erzmVNzRmNrykANrmZ/view?usp=sharing)
   - animation & game designing
+* [Anagram Generator](https://drive.google.com/file/d/1ZepdtC7nmcehOllylkN0Z4d6mHnihSIK/view?usp=sharing)
+  - recursive functions & GUI
 * [Name Popularity Searching System](https://drive.google.com/file/d/1P8nYnClraNfHXDeXxAwf59B3fniKoKIg/view?usp=sharing)
   - data stracture
 * [Boggle Game Solver](https://drive.google.com/file/d/1y3Mi3RNpH-a5lXaZVvDFWRkMl6iIQafA/view?usp=sharing)
