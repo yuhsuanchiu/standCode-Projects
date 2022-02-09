@@ -1,3 +1,20 @@
+"""
+File: anagram.py
+Name: Yu Hsuan Chiu
+----------------------------------
+This program recursively finds all the anagram(s)
+for the word input by user and terminates when the
+input string matches the EXIT constant defined
+at line 19
+If you correctly implement this program, you should see the
+number of anagrams for each word listed below:
+    * arm -> 3 anagrams
+    * contains -> 5 anagrams
+    * stop -> 6 anagrams
+    * tesla -> 10 anagrams
+    * spear -> 12 anagrams
+"""
+
 import tkinter as tk
 import anagramgui as gui
 
